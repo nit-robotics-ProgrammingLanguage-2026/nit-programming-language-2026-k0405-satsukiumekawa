@@ -10,11 +10,11 @@ int main(void) {
      */
 
 	double x;
-	dobule a;
+	double a;
 
 	scanf("%lf", &x);
 
-	a = x / (4.0 * 3.141592) * 360.0
+	a = x / (4.0 * 3.141592) * 360.0;
 		printf("%f\n", a);
     
 
